@@ -1,0 +1,36 @@
+body{
+    background-color: #7ebdb4;
+}
+h1{
+    color:#120136;
+    font-style:italic;
+}
+.lovely{
+    width: 100px;
+    height: 100px;
+    position: relative;
+}
+.lovely1{
+    width: 600px;
+    height: 200px;
+    position: relative;
+}
+.lovely2{
+    width: 600px;
+    height: 600px;
+    position: relative;
+}
+.bday{
+    color: crimson;
+    font-style:italic ;
+}
+.wish{
+    width: 200px;
+    height: 200px;
+    position: relative;
+}
+.mountain{
+    position: relative;
+    width: 1500px;
+    margin-top: 0px;
+}
